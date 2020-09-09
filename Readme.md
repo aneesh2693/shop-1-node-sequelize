@@ -1,3 +1,3 @@
-# Udemy Project
+# Study Project(Udemy): Shop
 
 ## NodeJS app using sequelize
